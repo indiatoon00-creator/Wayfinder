@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "entries": [
+    "wayfinder:add_ring_dungeon",
+    "wayfinder:add_ring_mineshaft"
+  ]
+}

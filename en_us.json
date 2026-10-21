@@ -1,0 +1,9 @@
+{
+  "item.wayfinder.wayfinder_ring": "Wayfinder Ring",
+  "block.wayfinder.village_portal": "Village Portal",
+  "tooltip.wayfinder.wayfinder_ring": "Right-click to open a portal to the nearest village",
+  "tooltip.wayfinder.repair": "Repair with Gold Ingots",
+  "message.wayfinder.no_village": "No village found nearby.",
+  "message.wayfinder.no_safe_spot": "Couldn't find a safe landing spot at the village.",
+  "message.wayfinder.no_room": "Not enough room for a portal here."
+}
